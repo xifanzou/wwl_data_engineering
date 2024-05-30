@@ -1,0 +1,8 @@
+
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+config/db_config.json
+__pycache__/
+*.pyc
